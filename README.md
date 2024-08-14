@@ -12,7 +12,7 @@
 <P align="center">The programming languages ​​that I dedicate most of my studies to are <img src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000" height="20px" width="20px">Python, <img src="https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000" height="20px" width="20px">C#, <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="20px" width="20px">Java, <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="20px" width="20px">JS,<img src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" height="20px" width="20px"> SQL, <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" height="20px" width="20px">Node.js</P>
 <P align="center">but the ones that I am dedicating myself to the most today are Python, SQL, JS and Node.js</P>
 <br>
-<h4 align="center">----------------------------------Status----------------------------------</h4>
+<h4 align="center">--------------------------------------------------------------------Status--------------------------------------------------------------------</h4>
 
 <p align="center">
   <a href="https://github.com/Matheus-Henrique-Neves">
