@@ -1,9 +1,9 @@
 
 <h3 align="center">
   <center>
-    <p><img src="https://img.icons8.com/?size=100&id=ulDlH4NRGkPU&format=png&color=000000" height="50px" width="50px">
+    <p><img src="https://img.icons8.com/?size=100&id=ulDlH4NRGkPU&format=png&color=000000" height="30px" width="30px">
     Hi my name is <a href="https://github.com/Matheus-Henrique-Neves">Matheus Henrique Almeida Vieira Neves</a>
-    <img src="https://img.icons8.com/?size=100&id=h5v4bSvUCvDw&format=png&color=000000" height="50px" width="50px"></p>    
+    <img src="https://img.icons8.com/?size=100&id=h5v4bSvUCvDw&format=png&color=000000" height="30px" width="30px"></p>    
   </center>
 </h3>
 <hr>
