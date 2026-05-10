@@ -6,7 +6,8 @@
 <hr>
 
 <p align="center">🎓 Estudante de <strong>DSM</strong> na <strong>Fatec Indaiatuba</strong> — Dr. Archimedes Lammoglia</p>
-<p align="center">🔐 Tecnólogo em <strong>Cibersegurança</strong> · Estudando redes por conta própria</p>
+<p align="center">🔐 Tecnólogo em <strong>Cibersegurança</strong> ·Faculdade Cruzeiro do Sul Virtual</p>
+<p align="center">🌐​ Estudando redes por conta própria<p>
 <p align="center">🎯 Objetivo: <strong>Back-end</strong> ou <strong>Analista de Rede</strong></p>
 
 <hr>
